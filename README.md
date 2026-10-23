@@ -23,4 +23,3 @@
 | 9   | Formatted index.html                  | Updated index.html, no added changes            | main   |
 | 9   | Make a word bold                      | Added bold text style to my birth place         | main   |
 | 9   | Added my hobbies                      | Added my hobbies                                | main   |
-
