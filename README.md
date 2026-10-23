@@ -15,8 +15,10 @@
 | 1   | Made the repo on GitHub with a README | Initial commit                                  | main   |
 | 2   | Created my first page                 | Add first page                                  | main   |
 | 3   | Add a new line                        | Added new line to index                         | main   |
-| 4   | Updated my README                     | Upated README                                   | main   |
+| 4   | Updated my README                     | Updated README                                  | main   |
 | 5   | Updated my first paragraph            | Updated my first paragraph                      | main   |
 | 6   | Added an About me section             | Add about me section to index.html              | main   |
 | 7   | Added a list of things I like         | Add list of things I like with a unordered list | main   |
 | 8   | Added my goals                        | Added my goals section                          | main   |
+| 9   | Formatted index.html                  | Updated index.html, no added changes            | main   |
+
