@@ -21,4 +21,6 @@
 | 7   | Added a list of things I like         | Add list of things I like with a unordered list | main   |
 | 8   | Added my goals                        | Added my goals section                          | main   |
 | 9   | Formatted index.html                  | Updated index.html, no added changes            | main   |
+| 9   | Make a word bold                      | Added bold text style to my birth place         | main   |
+| 9   | Added my hobbies                      | Added my hobbies                                | main   |
 
