@@ -30,4 +30,4 @@ Live site: [View My Website](https://miquellew.github.io/week-1-checkpoint/)
 | 14  | Add a picture                         | Add photography image                           | main   |
 | 15  | Add live site link to README          | Add live site link to README                    | main   |
 | 16  | Update ACP log                        | Update ACP log                                  | main   |
-| 16  | Make image clickable & add email link | Add clickable image and email link              | main   |
+| 17  | Make image clickable & add email link | Add clickable image and email link              | main   |
