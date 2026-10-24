@@ -29,3 +29,4 @@ Live site: [View My Website](https://miquellew.github.io/week-1-checkpoint/)
 | 13  | Add a link to a site I like           | Add a link to TikTok                            | main   |
 | 14  | Add a picture                         | Add photography image                           | main   |
 | 15  | Add live site link to README          | Add live site link to README                    | main   |
+| 16  | Update ACP log                        | Update ACP log                                  | main   |
