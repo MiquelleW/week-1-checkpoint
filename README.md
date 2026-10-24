@@ -1,5 +1,7 @@
 # Week 1 Checkpoint
 
+Live site: [View My Website](https://miquellew.github.io/week-1-checkpoint/)
+
 ## My setup
 
 - Operating system: Windows
