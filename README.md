@@ -26,3 +26,6 @@ Live site: [View My Website](https://miquellew.github.io/week-1-checkpoint/)
 | 10  | Make a word bold                      | Added bold text style to my birth place         | main   |
 | 11  | Added my hobbies                      | Added my hobbies                                | main   |
 | 12  | Added my stylesheet                   | Add stylesheet                                  | main   |
+| 13  | Add a link to a site I like           | Add a link to TikTok                            | main   |
+| 14  | Add a picture                         | Add photography image                           | main   |
+| 15  | Add live site link to README          | Add live site link to README                    | main   |
